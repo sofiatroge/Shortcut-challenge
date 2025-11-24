@@ -1,5 +1,7 @@
 # Comic Viewer - shortcut challenge
 
+repo url: https://github.com/sofiatroge/Shortcut-challenge.git
+
 A modern Android app for browsing xkcd comics, built with Kotlin and Jetpack Compose.
 
 ## Features Implemented (MVP)
